@@ -1,0 +1,1 @@
+const productOfNum = require("./exportFunctionWithParameter");
